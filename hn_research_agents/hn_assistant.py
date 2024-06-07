@@ -25,5 +25,5 @@ hn_assistant = Assistant(
 )
 
 hn_assistant.print_response(
-    "Write a report about the users with the top 2 stories on hackernews", markdown=False
+    "Write a report about the users with the top 2 stories on hackernews", markdown=True
 )

@@ -10,7 +10,8 @@ Characters: Create relatable and interesting characters.
 Storyline: Develop a cohesive and engaging narrative for your video.
 ```
 
-# Example:
+# Usage
+Example query = "10,000 hours Rule"
 ```
 YoutubeAgent(
 │   setting='The stage is set for a journey of self-improvement, as we explore the fascinating world of 10,000 hours.',

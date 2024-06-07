@@ -24,9 +24,6 @@ hn_assistant = Assistant(
     llm=Ollama(model="llama3:instruct", max_tokens=1024)
 )
 
-import json
-import httpx
-
 hn_assistant.print_response(
     "Write a report about the users with the top 2 stories on hackernews", markdown=False
 )

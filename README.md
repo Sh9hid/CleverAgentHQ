@@ -3,23 +3,18 @@ Welcome to the AI Agents Repository! This repository houses various AI agent pro
 
 ## 🌟 Key Projects
 1. hn_research_agents
-Last Update: 2 weeks ago
 This project focuses on research agents tailored for Hacker News. These agents can help in collecting, analyzing, and summarizing information from Hacker News.
 
-2. hn_assistant.py
-Last Update: 2 weeks ago
+3. hn_assistant.py
 An assistant module for managing and interacting with Hacker News research agents. It includes functionalities to streamline data handling and agent interactions.
 
-3. investment_agent_workflows
-Last Update: Last week
+4. investment_agent_workflows
 Automated workflows designed to assist with investment analysis and decision-making. This project includes scripts and tools for analyzing market trends and managing investment portfolios.
 
-4. web-search-hq
-Last Update: Last week
+5. web-search-hq
 An advanced web search module that enhances search capabilities with improved algorithms and data processing techniques. Ideal for users who need precise and efficient search results.
 
-5. yt_content_machine
-Last Update: 2 weeks ago
+6. yt_content_machine
 This project automates the creation of YouTube content, from video generation to SEO optimization. It aims to simplify the content creation process for YouTubers and marketers.
 
 ## 📁 Repository Structure
